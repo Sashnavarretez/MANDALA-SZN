@@ -1,0 +1,19 @@
+body{
+    background-color:#fcacf8 ;
+    font-family: 'Comfortaa', cursive;
+}
+.container{
+    background-color: rgb(223, 173, 224);
+    margin-top: 30px;
+    border-radius: 10px;
+    padding: 20px;
+} 
+.div{
+    background-color: #ff24f4;
+}
+h1{
+    font-family: 'Lilita One', cursiva;
+}
+h2{
+    font-family: 'Lilita One', cursiva;
+}
